@@ -1,0 +1,51 @@
+body {
+     
+}
+
+#abelinha {
+     width: 100%;
+}
+
+.principal {
+     background: #CCCFFF
+}
+
+.titulo-principal {
+     padding-left: 20px;
+}
+
+.titulo-centralizado {
+     text-align: center
+}
+
+p {
+     text-align: center 
+}
+
+#missao {
+     font-size: 20px
+}
+
+em strong {
+    color: purple; 
+}
+
+.itens {
+     font-style: italic
+}
+
+.benefícios {
+     background: #FFFFFF;
+}
+
+
+ul {
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+}
+
+.imagemursinha {
+     width: 50%;
+}
